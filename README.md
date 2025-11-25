@@ -68,3 +68,4 @@ A mobile e-commerce platform built with **React Native** for the frontend and **
 
 ## 🙌 Author
 Developed by Maqdad Asheer (Developer), k7k7 (Developer), bosi (Designer)
+## THE CODE FOR THIS PROJECT IS PRIVATE AND ONLY CAN BE ACCESED FROM ME
