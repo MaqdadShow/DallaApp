@@ -1,4 +1,4 @@
-#IF YOU WANT TO SEE THE FULL CODE CONTACT ME !
+##IF YOU WANT TO SEE THE FULL CODE CONTACT ME !
 # 🛒 Dalla E-Commerce Mobile Application
 
 A mobile e-commerce platform built with **React Native** for the frontend and **Python microservices** for the backend. The app functions similarly to platforms like Amazon and Facebook Marketplace, allowing users to browse products, upload items for sale, manage listings, and place orders.
